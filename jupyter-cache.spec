@@ -4,7 +4,7 @@
 #
 Name     : jupyter-cache
 Version  : 0.4.3
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/49/cd/43a393cd0e5a5019598bf899c3ccfac4b8ac92b6b47d25980a44cc1a3ec3/jupyter-cache-0.4.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/49/cd/43a393cd0e5a5019598bf899c3ccfac4b8ac92b6b47d25980a44cc1a3ec3/jupyter-cache-0.4.3.tar.gz
 Summary  : A defined interface for working with a cache of jupyter notebooks.
